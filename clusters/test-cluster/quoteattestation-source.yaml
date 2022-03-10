@@ -9,4 +9,6 @@ spec:
   ref:
     branch: master
   url: https://github.com/Ruoyu-y/test-resource-dep
+  secretRef:
+    name:   flux-system
 
